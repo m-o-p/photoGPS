@@ -1,0 +1,2 @@
+# photoGPS
+Do you own a Jobo Photo GPS or a Bilora Geotagger 118 Photo-GPS? After shutting down the U-BLOX server the device is not usable anymore. The goal of this project is to create an open source software that does the job... Even without any correction log the data should not be totally worthless. The first step is reverse engineering the protocol to the device. The second, to set the time on the device to make it work again. Who wants to join?
